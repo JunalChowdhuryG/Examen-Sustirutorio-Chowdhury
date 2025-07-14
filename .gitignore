@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*/__pycache__
+.pytest_cache
+__pycache__
+.coverage
+.pytest_cache
+htmlcov
+venv
+instance
+test.db
+.gitGraph
